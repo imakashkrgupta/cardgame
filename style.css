@@ -79,7 +79,7 @@
 .home_main_wrap {
     min-height: 100vh;
     background-color: #1e2a3a;
-    background-image: url("img/home_bg_gif.gif");
+    background-image: url("home_bg_gif.gif");
     background-size: cover;
     background-position: bottom;
     background-repeat: no-repeat;
